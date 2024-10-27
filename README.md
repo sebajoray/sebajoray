@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebajoray
 - 👀 I’m interested in make some money
-- 🌱 I’m currently learning pytessect
+- 🌱 I’m currently learning pytesseract
 - 💞️ I’m looking to collaborate on rpba
 - 📫 How to reach me s.joray@gmail.com
 
